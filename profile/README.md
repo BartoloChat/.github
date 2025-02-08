@@ -1,12 +1,13 @@
 
-# Discaverse
+# Wiinnet
 
-A Miiverse port on PC only. Also, its a live chat and a pastebin.
+Recreation of the famous Nintendo Wi-Fi Connection.
 
 
 ## Authors
 
 - [@bartolowav83](https://www.github.com/bartolowav83)
+- [@00cedke](https://www.github.com/00cedke)
 
 
 ## 
@@ -16,13 +17,9 @@ A Miiverse port on PC only. Also, its a live chat and a pastebin.
 
 ## FAQ
 
-#### It is possible to register or log into an account?
-
-No, it is not possible because the website is still in progress.
-
 #### There are rules ?
 
-Yes, for the moment you can't see because the website is in progress...
+Yes, soon we are getting rules.
 
 #### Does ban / IP bans are possible ?
-No. W.I.P
+Maybe...
