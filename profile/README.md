@@ -1,4 +1,4 @@
-# BartoloChat
+# Schlabble
 
 The most secure and encrypted chat service!
 
